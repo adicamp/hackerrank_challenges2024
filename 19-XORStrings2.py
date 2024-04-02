@@ -11,3 +11,7 @@ def strings_xor(s, t):
 s = input()
 t = input()
 print(strings_xor(s, t))
+
+# I have failed in JavaScript, 
+# perhaps because there are issues experienced by others as well, 
+# so I'm trying in Python.
