@@ -27,3 +27,5 @@ strings_xor(input);
 // In this challenge, it seems there's a problem.
 // My answer matches, but it's still marked wrong.
 // And I've noticed many others facing the same issue.
+// So, I decided to try working on it using another language,
+// Python, in file "19-XORStrings2.py". And it worked successfully.
